@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 1b502667-7b1b-4e9e-b5df-b8722c52620d
+  name: google in nav
+  pageRef: /links/google
+  weight: 10
